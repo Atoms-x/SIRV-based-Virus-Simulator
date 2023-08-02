@@ -123,7 +123,7 @@ A final outcome statement will be generated, indicated what the vaccine distribu
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/SgtR0ck/City_Simulator/blob/main/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/SgtR0ck/SIRV-based-Virus-Simulator/blob/main/LICENSE.md) file for details
 
 ## Acknowledgments
 
