@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SgtR0ck/City_Simulator/assets/8111664/ac60bc95-3be6-4110-99d3-74146b0a4892"
+  <img alt="DreamShaper_v7_Virus_Replicating_Plague_Pandemic_Spread_Video_2" src="https://github.com/SgtR0ck/SIRV-based-Virus-Simulator/assets/8111664/007639b9-c41b-4e40-b2da-560566a6239a"
 </p>
 <h1 align="center"> 
   SIRV-based Virus Simulator 
@@ -41,7 +41,7 @@ SIRV stands for:
 * **R** emoved/Recovered (or Immune)
 * **V** accinated
 
-See [SIRV.md]() for a complete description.
+See [SIRV.md](https://github.com/SgtR0ck/SIRV-based-Virus-Simulator/blob/main/SIRV.md) for a complete description.
 
 ### Vaccine Distribution Models
 
@@ -52,7 +52,9 @@ The Vaccine is distributed based on four differet models:
 * Randomly
 * Equally
 
-See [VACCINE.md]() for a complete description.
+See [VACCINE.md](https://github.com/SgtR0ck/SIRV-based-Virus-Simulator/blob/main/VACCINE.md) for a complete description.
+
+## Getting Started
 
 ### Prerequisites
 
